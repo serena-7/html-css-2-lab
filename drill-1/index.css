@@ -1,0 +1,29 @@
+header {
+    background-color: gray;
+    height: 20vh;
+}
+
+.below-header {
+    background-color: lightgray;
+    /* display: flex; */
+    display: flex;
+    flex-direction:row;
+}
+
+.gray-side {
+    height:80vh;
+    width:10vw;
+    background-color: lightgray;
+}
+
+.main {
+    height:70vh;
+    width:80vw;
+    background-color: white;
+}
+
+footer {
+    background-color: black;
+    height: 10vh;
+    width: 80vw;
+}
